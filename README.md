@@ -9,7 +9,7 @@ Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Apl
   
 
 ## 📑 Contenido del Informe
-El informe se divide en dos secciones principales:
+El informe se divide en varias secciones principales:
 
 📋 Bloque I: Elección de una Arquitectura
 En esta sección, se presentan cinco supuestos prácticos relacionados con el desarrollo de aplicaciones móviles. Cada supuesto tiene restricciones y requisitos específicos, como presupuesto, tiempos de entrega, recursos humanos y expectativas de rendimiento.
@@ -83,4 +83,4 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 ## 🤝 Contribuciones
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.
 
-Por favor, contáctenos si tiene preguntas o comentarios sobre el informe.
+Por favor, contácteme si tiene preguntas o comentarios sobre el informe.

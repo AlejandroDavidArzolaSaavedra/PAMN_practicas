@@ -86,7 +86,7 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 
 ## 🤝 Contribuciones
 
-<img align="left" width="200" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/1066c948-efb6-45b6-ac18-d81015abf332">
+<img align="left" width="150" height="200" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/7cac86e0-3961-41e8-9c8e-5038bd21dea7">
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
 
 Por favor, contácteme si tiene preguntas o comentarios sobre el informe.

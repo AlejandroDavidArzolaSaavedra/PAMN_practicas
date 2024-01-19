@@ -1,5 +1,9 @@
 <h1 align="center">📄 Informe sobre Elección de Arquitecturas para Aplicaciones Móviles</h1>
 
+<p align="center">
+  <img width="400px" src="https://github.com/AlejandroDavidArzolaSaavedra/PAMN_practicas/assets/90756437/ef2e4b5d-71f7-4ee1-a03a-9f77b249aa14">
+</p>
+
 Este informe aborda la selección de arquitecturas para el desarrollo de aplicaciones móviles en diversos escenarios prácticos. La elección de una arquitectura adecuada es crucial para el éxito del proyecto, ya que impacta en el desarrollo, mantenimiento, rendimiento, seguridad y experiencia del usuario (UX) de la aplicación. El informe se ha elaborado en formato PDF utilizando LaTeX.
 
 ## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)

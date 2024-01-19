@@ -6,7 +6,7 @@
 
 Este informe aborda la selección de arquitecturas para el desarrollo de aplicaciones móviles en diversos escenarios prácticos. La elección de una arquitectura adecuada es crucial para el éxito del proyecto, ya que impacta en el desarrollo, mantenimiento, rendimiento, seguridad y experiencia del usuario (UX) de la aplicación. El informe se ha elaborado en formato PDF utilizando LaTeX.
 
-## 🙆👨‍💻 Autor (Ctrl + Click para ver los perfiles)
+## 🙆‍♂️👨‍💻 Autor (Ctrl + Click para ver los perfiles)
 Este informe ha sido elaborado por el Grupo 13 del curso de Programación de Aplicaciones Móviles Nativas (PAMN).
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alejandro%20David%20Arzola%20Saavedra-blue?style=flat-square&logo=github)](https://github.com/AlejandroDavidArzolaSaavedra)
@@ -18,7 +18,7 @@ El informe se divide en varias secciones principales:
 📋 Bloque I: Elección de una Arquitectura
 En esta sección, se presentan cinco supuestos prácticos relacionados con el desarrollo de aplicaciones móviles. Cada supuesto tiene restricciones y requisitos específicos, como presupuesto, tiempos de entrega, recursos humanos y expectativas de rendimiento.
 
-## Supuesto 1: Aplicación de E-commerce para una PYME
+## 🚀 Supuesto 1: Aplicación de E-commerce para una PYME
 
 - Presupuesto: Limitado.
 
@@ -28,7 +28,7 @@ En esta sección, se presentan cinco supuestos prácticos relacionados con el de
 
 - Rendimiento: Tráfico moderado, pero la aplicación debe ser rápida y eficiente.
 
-## Supuesto 2: Aplicación Social Interactiva para una Startup
+## 🌐 Supuesto 2: Aplicación Social Interactiva para una Startup
 
 - Presupuesto: Moderado.
 
@@ -38,7 +38,7 @@ En esta sección, se presentan cinco supuestos prácticos relacionados con el de
 
 - Rendimiento: Alto tráfico y manejo de interacciones en tiempo real.
 
-## Supuesto 3: Aplicación Financiera para una Gran Empresa
+## 💼 Supuesto 3: Aplicación Financiera para una Gran Empresa
 
 - Presupuesto: Alto.
 
@@ -48,7 +48,7 @@ En esta sección, se presentan cinco supuestos prácticos relacionados con el de
 
 - Rendimiento: Tráfico muy alto, seguridad y eficiencia esenciales.
 
-## Supuesto 4: Plataforma de Salud y Bienestar para Hospitales
+## 🏥 Supuesto 4: Plataforma de Salud y Bienestar para Hospitales
 
 - Presupuesto: Muy alto.
 
@@ -58,7 +58,7 @@ En esta sección, se presentan cinco supuestos prácticos relacionados con el de
 
 - Rendimiento: Tráfico constante y alto, primordial seguridad y privacidad.
 
-## Supuesto 5: Aplicación Prototipo para un Hackathon
+## 🚀 Supuesto 5: Aplicación Prototipo para un Hackathon
 
 - Presupuesto: Mínimo. Herramientas y recursos gratuitos.
 
@@ -90,4 +90,3 @@ Si deseas compilar el informe en Overleaf en lugar de hacerlo en tu máquina loc
 Si desea contribuir a este informe o realizar mejoras, le invitamos a hacerlo. Puede abrir problemas (issues) o enviar solicitudes de extracción (pull requests) para colaborar en el desarrollo del informe.<br><br>
 
 Por favor, contácteme si tiene preguntas o comentarios sobre el informe.
-
